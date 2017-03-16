@@ -3,3 +3,5 @@ This is a git test file
 
 add some word
 finish
+
+Git is a free software distributed under the GPL.
