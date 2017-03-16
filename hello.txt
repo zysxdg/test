@@ -1,2 +1,5 @@
 This is a git test file
 "Hello world!"
+
+add some word
+finish
